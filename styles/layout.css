@@ -408,6 +408,7 @@
     font-weight: 700;
     margin-bottom: var(--space-md);
     text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    color: #fff;
 }
 
 .hero-title span {
