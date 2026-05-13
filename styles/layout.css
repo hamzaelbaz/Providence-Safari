@@ -536,7 +536,7 @@
 }
 
 .breadcrumbs-current {
-    color: var(--color-dark);
+    color: #fff;
 }
 
 /* ===== Main Content ===== */
