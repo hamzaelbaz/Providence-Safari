@@ -518,11 +518,11 @@
     gap: var(--space-xs);
     padding: var(--space-md) 0;
     font-size: 0.875rem;
-    color: var(--color-text-muted);
+    color: #fff;
 }
 
 .breadcrumbs a {
-    color: var(--color-text-muted);
+    color: #fff;
     text-decoration: none;
     transition: color var(--transition-fast);
 }
